@@ -1,0 +1,808 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="JoshuaAHayes.com" resolutions="1x" timestamp="1536075868079">
+  <folder name="css">
+    <file name="site_global.css" crc="61308711"/>
+    <file name="master_a-master.css" crc="4075338648" ref="contact:bio:portfolio:other:paintings:illustrations:index:drawings:exhibitions"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="contact:bio:portfolio:other:paintings:illustrations:index:drawings:exhibitions"/>
+    <file name="contact.css" crc="530566121" ref="contact"/>
+    <file name="nomq_contact.css" crc="3821184359" ref="contact"/>
+    <file name="bio.css" crc="226015231" ref="bio"/>
+    <file name="nomq_bio.css" crc="4010116830" ref="bio"/>
+    <file name="portfolio.css" crc="172663385" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="354433929" ref="portfolio"/>
+    <file name="other.css" crc="3817624491" ref="other"/>
+    <file name="nomq_other.css" crc="4077112673" ref="other"/>
+    <file name="paintings.css" crc="3985342893" ref="paintings"/>
+    <file name="nomq_paintings.css" crc="365842915" ref="paintings"/>
+    <file name="illustrations.css" crc="4156498161" ref="illustrations"/>
+    <file name="nomq_illustrations.css" crc="4019281207" ref="illustrations"/>
+    <file name="index.css" crc="235310974" ref="index"/>
+    <file name="nomq_index.css" crc="340848545" ref="index"/>
+    <file name="drawings.css" crc="202946695" ref="drawings"/>
+    <file name="nomq_drawings.css" crc="4244269446" ref="drawings"/>
+    <file name="exhibitions.css" crc="378472693" ref="exhibitions"/>
+    <file name="nomq_exhibitions.css" crc="3949600851" ref="exhibitions"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact:bio:portfolio:illustrations:other:exhibitions:paintings:drawings"/>
+    <file name="museutils.js" crc="340535759" ref="index:contact:bio:portfolio:illustrations:other:exhibitions:paintings:drawings"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contact:bio:portfolio:illustrations:other:exhibitions:paintings:drawings"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:contact:bio:portfolio:illustrations:other:exhibitions:paintings:drawings"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:contact:bio:portfolio:illustrations:other:exhibitions:paintings:drawings"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:contact:bio:portfolio:illustrations:other:exhibitions:paintings:drawings"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contact:bio:portfolio:illustrations:other:exhibitions:paintings:drawings"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:contact:bio:portfolio:illustrations:other:exhibitions:paintings:drawings"/>
+    <file name="require.js" crc="7928878" ref="index:contact:bio:portfolio:illustrations:other:exhibitions:paintings:drawings"/>
+    <file name="webpro.js" crc="4059564322" ref="contact:illustrations:paintings:drawings"/>
+    <file name="form_check.php" crc="4020933626" ref="contact"/>
+    <file name="form_throttle.php" crc="4259590256" ref="contact"/>
+    <file name="form_process.php" crc="37464564" ref="contact"/>
+    <file name="form-u6439.php" crc="3814840713" ref="contact"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="illustrations:paintings:drawings"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="illustrations:paintings:drawings"/>
+    <file name="touchswipe.js" crc="4075097462" ref="illustrations:paintings:drawings"/>
+  </folder>
+  <folder name="images">
+    <file name="lime logo.png" crc="175145665" seo="true" ref="index:contact:bio:portfolio:illustrations:other:exhibitions:paintings:drawings">
+      <caption webpage="bio" alt=""/>
+      <caption webpage="bio" alt=""/>
+      <caption webpage="bio" alt=""/>
+      <caption webpage="paintings" alt=""/>
+      <caption webpage="paintings" alt=""/>
+      <caption webpage="paintings" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="exhibitions" alt=""/>
+      <caption webpage="exhibitions" alt=""/>
+      <caption webpage="exhibitions" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="other" alt=""/>
+      <caption webpage="other" alt=""/>
+      <caption webpage="other" alt=""/>
+      <caption webpage="drawings" alt=""/>
+      <caption webpage="drawings" alt=""/>
+      <caption webpage="drawings" alt=""/>
+      <caption webpage="illustrations" alt=""/>
+      <caption webpage="illustrations" alt=""/>
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="arrowmenudown.png" crc="262559161" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="poster cropped.png" crc="372177325" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="copy right logo lime green.png" crc="4110204621" seo="true" ref="index:contact:bio:portfolio:illustrations:other:exhibitions:paintings:drawings">
+      <caption webpage="bio" alt=""/>
+      <caption webpage="bio" alt=""/>
+      <caption webpage="bio" alt=""/>
+      <caption webpage="paintings" alt=""/>
+      <caption webpage="paintings" alt=""/>
+      <caption webpage="paintings" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="exhibitions" alt=""/>
+      <caption webpage="exhibitions" alt=""/>
+      <caption webpage="exhibitions" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="other" alt=""/>
+      <caption webpage="other" alt=""/>
+      <caption webpage="other" alt=""/>
+      <caption webpage="drawings" alt=""/>
+      <caption webpage="drawings" alt=""/>
+      <caption webpage="drawings" alt=""/>
+      <caption webpage="illustrations" alt=""/>
+      <caption webpage="illustrations" alt=""/>
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="instagram logo lime.png" crc="3957612028" seo="true" ref="index:contact:bio:portfolio:illustrations:other:exhibitions:paintings:drawings">
+      <caption webpage="bio" alt=""/>
+      <caption webpage="bio" alt=""/>
+      <caption webpage="bio" alt=""/>
+      <caption webpage="paintings" alt=""/>
+      <caption webpage="paintings" alt=""/>
+      <caption webpage="paintings" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="exhibitions" alt=""/>
+      <caption webpage="exhibitions" alt=""/>
+      <caption webpage="exhibitions" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="other" alt=""/>
+      <caption webpage="other" alt=""/>
+      <caption webpage="other" alt=""/>
+      <caption webpage="drawings" alt=""/>
+      <caption webpage="drawings" alt=""/>
+      <caption webpage="drawings" alt=""/>
+      <caption webpage="illustrations" alt=""/>
+      <caption webpage="illustrations" alt=""/>
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="facebook logo lime.png" crc="183595466" seo="true" ref="index:contact:bio:portfolio:illustrations:other:exhibitions:paintings:drawings">
+      <caption webpage="bio" alt=""/>
+      <caption webpage="bio" alt=""/>
+      <caption webpage="bio" alt=""/>
+      <caption webpage="paintings" alt=""/>
+      <caption webpage="paintings" alt=""/>
+      <caption webpage="paintings" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="exhibitions" alt=""/>
+      <caption webpage="exhibitions" alt=""/>
+      <caption webpage="exhibitions" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="other" alt=""/>
+      <caption webpage="other" alt=""/>
+      <caption webpage="other" alt=""/>
+      <caption webpage="drawings" alt=""/>
+      <caption webpage="drawings" alt=""/>
+      <caption webpage="drawings" alt=""/>
+      <caption webpage="illustrations" alt=""/>
+      <caption webpage="illustrations" alt=""/>
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="social-media-logos.svg" crc="518544084" seo="true" ref="index:contact:bio:portfolio:illustrations:other:exhibitions:paintings:drawings">
+      <caption webpage="bio" alt=""/>
+      <caption webpage="bio" alt=""/>
+      <caption webpage="bio" alt=""/>
+      <caption webpage="paintings" alt=""/>
+      <caption webpage="paintings" alt=""/>
+      <caption webpage="paintings" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="exhibitions" alt=""/>
+      <caption webpage="exhibitions" alt=""/>
+      <caption webpage="exhibitions" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="other" alt=""/>
+      <caption webpage="other" alt=""/>
+      <caption webpage="other" alt=""/>
+      <caption webpage="drawings" alt=""/>
+      <caption webpage="drawings" alt=""/>
+      <caption webpage="drawings" alt=""/>
+      <caption webpage="illustrations" alt=""/>
+      <caption webpage="illustrations" alt=""/>
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="social media logos_poster_.png" crc="4036923748" ref="index"/>
+    <file name="patreon logo lime.png" crc="38833914" seo="true" ref="index:contact:bio:portfolio:illustrations:other:exhibitions:paintings:drawings">
+      <caption webpage="bio" alt=""/>
+      <caption webpage="bio" alt=""/>
+      <caption webpage="bio" alt=""/>
+      <caption webpage="paintings" alt=""/>
+      <caption webpage="paintings" alt=""/>
+      <caption webpage="paintings" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="exhibitions" alt=""/>
+      <caption webpage="exhibitions" alt=""/>
+      <caption webpage="exhibitions" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="other" alt=""/>
+      <caption webpage="other" alt=""/>
+      <caption webpage="other" alt=""/>
+      <caption webpage="drawings" alt=""/>
+      <caption webpage="drawings" alt=""/>
+      <caption webpage="drawings" alt=""/>
+      <caption webpage="illustrations" alt=""/>
+      <caption webpage="illustrations" alt=""/>
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="poster cropped577x218.png" crc="463658678" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="poster cropped366x139.png" crc="4024464390" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:contact:bio:portfolio:illustrations:other:exhibitions:paintings:drawings"/>
+    <file name="instagram logo lime2.png" crc="3821630867" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="linkedin logo lime.png" crc="20826663" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="facebook logo lime2.png" crc="409207537" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="patreon logo lime2.png" crc="390407609" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="design 1 blue-crop-u4532.png" crc="3861764650" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 3 green-crop-u4793.png" crc="420582934" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 4 blue-crop-u4873.png" crc="3764216117" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 5 green-crop-u4953.png" crc="3920917397" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 1 green-crop-u4733.png" crc="417282907" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 3 blue-crop-u4813.png" crc="3904507377" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 4 green-crop-u4893.png" crc="3874708637" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 5 blue-crop-u4973.png" crc="232068585" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 1 grey-crop-u4753.png" crc="34405521" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 3 grey-crop-u4833.png" crc="4079676598" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 4 grey-crop-u4913.png" crc="4140005378" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 5 grey-crop-u4993.png" crc="75246718" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 1 pink-crop-u4773.png" crc="3833976557" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 3 pink-crop-u4853.png" crc="4275805766" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 4 pink-crop-u4933.png" crc="3837005840" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 5 pink-crop-u5013.png" crc="4187221299" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 1 blue.png" crc="346371087" seo="true" ref="illustrations:paintings:drawings">
+      <caption webpage="paintings" alt=""/>
+      <caption webpage="drawings" alt=""/>
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 1 green.png" crc="509319845" seo="true" ref="illustrations:paintings:drawings">
+      <caption webpage="paintings" alt=""/>
+      <caption webpage="drawings" alt=""/>
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 1 grey.png" crc="6499269" seo="true" ref="illustrations:paintings:drawings">
+      <caption webpage="paintings" alt=""/>
+      <caption webpage="drawings" alt=""/>
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 1 pink.png" crc="3831708371" seo="true" ref="illustrations:paintings:drawings">
+      <caption webpage="paintings" alt=""/>
+      <caption webpage="drawings" alt=""/>
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 3 green.png" crc="243784846" seo="true" ref="illustrations:paintings:drawings">
+      <caption webpage="paintings" alt=""/>
+      <caption webpage="drawings" alt=""/>
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 3 blue.png" crc="3856327543" seo="true" ref="illustrations:paintings:drawings">
+      <caption webpage="paintings" alt=""/>
+      <caption webpage="drawings" alt=""/>
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 3 grey.png" crc="207290832" seo="true" ref="illustrations:paintings:drawings">
+      <caption webpage="paintings" alt=""/>
+      <caption webpage="drawings" alt=""/>
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 3 pink.png" crc="438298395" seo="true" ref="illustrations:paintings:drawings">
+      <caption webpage="paintings" alt=""/>
+      <caption webpage="drawings" alt=""/>
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 4 blue.png" crc="3886497543" seo="true" ref="illustrations:paintings:drawings">
+      <caption webpage="paintings" alt=""/>
+      <caption webpage="drawings" alt=""/>
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 4 green.png" crc="479396440" seo="true" ref="illustrations:paintings:drawings">
+      <caption webpage="paintings" alt=""/>
+      <caption webpage="drawings" alt=""/>
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 4 grey.png" crc="477994859" seo="true" ref="illustrations:paintings:drawings">
+      <caption webpage="paintings" alt=""/>
+      <caption webpage="drawings" alt=""/>
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 4 pink.png" crc="246694716" seo="true" ref="illustrations:paintings:drawings">
+      <caption webpage="paintings" alt=""/>
+      <caption webpage="drawings" alt=""/>
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 5 green.png" crc="3977968845" seo="true" ref="illustrations:paintings:drawings">
+      <caption webpage="paintings" alt=""/>
+      <caption webpage="drawings" alt=""/>
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 5 blue.png" crc="4152580421" seo="true" ref="illustrations:paintings:drawings">
+      <caption webpage="paintings" alt=""/>
+      <caption webpage="drawings" alt=""/>
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 5 grey.png" crc="389429163" seo="true" ref="illustrations:paintings:drawings">
+      <caption webpage="paintings" alt=""/>
+      <caption webpage="drawings" alt=""/>
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 5 pink.png" crc="3861234639" seo="true" ref="illustrations:paintings:drawings">
+      <caption webpage="paintings" alt=""/>
+      <caption webpage="drawings" alt=""/>
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="illustrations:paintings:drawings"/>
+    <file name="design 1 blue-crop-u45322.png" crc="117922076" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 3 green-crop-u47932.png" crc="29661417" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 4 blue-crop-u48732.png" crc="160868196" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 5 green109x113.png" crc="471937059" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 1 green-crop-u47332.png" crc="89283182" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 3 blue-crop-u48132.png" crc="3919000594" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 4 green-crop-u48932.png" crc="467263925" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 5 blue109x113.png" crc="4007782540" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 1 grey-crop-u47532.png" crc="514926046" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 3 grey-crop-u48332.png" crc="4249905557" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 4 grey-crop-u49132.png" crc="4147369652" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 5 grey109x113.png" crc="3797287932" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 1 pink-crop-u47732.png" crc="3874074406" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 3 pink-crop-u48532.png" crc="143042222" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 4 pink-crop-u49332.png" crc="4282281685" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 5 pink109x113.png" crc="3761222320" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 1 blue222x225.png" crc="443711958" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 1 green222x225.png" crc="39168804" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 1 grey223x225.png" crc="3768074996" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 1 pink222x225.png" crc="3822076438" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 3 green253x225.png" crc="177638183" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 3 blue253x225.png" crc="505790575" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 3 grey253x225.png" crc="433741829" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 3 pink253x225.png" crc="3850503742" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 4 blue194x225.png" crc="4269657397" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 4 green193x225.png" crc="4285565937" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 4 grey193x225.png" crc="4133618459" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 4 pink193x225.png" crc="4167384770" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 5 green219x225.png" crc="472356931" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 5 blue219x225.png" crc="4190173978" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 5 grey219x225.png" crc="4255400878" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 5 pink219x225.png" crc="3964031359" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 1 blue70x71.png" crc="375195012" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 3 green-crop-u47933.png" crc="4231377115" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 4 blue-crop-u48733.png" crc="411625725" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 5 green70x72.png" crc="256965506" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 1 green70x71.png" crc="473949533" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 3 blue-crop-u48133.png" crc="4284217288" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 4 green-crop-u48933.png" crc="3961388224" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 5 blue70x72.png" crc="4010696759" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 1 grey-crop-u47533.png" crc="3782293037" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 3 grey-crop-u48333.png" crc="3800556446" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 4 grey-crop-u49133.png" crc="3914152445" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 5 grey70x72.png" crc="4206727977" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 1 pink70x71.png" crc="3942108617" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 3 pink-crop-u48533.png" crc="3914161571" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 4 pink-crop-u49333.png" crc="3877166441" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 5 pink70x72.png" crc="4293439933" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 1 blue140x143.png" crc="4109921398" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 1 green141x143.png" crc="3985369388" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 1 grey142x143.png" crc="3804133111" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 1 pink140x143.png" crc="140323890" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 3 green161x143.png" crc="4076706340" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 3 blue160x143.png" crc="434127287" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 3 grey160x143.png" crc="141586369" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 3 pink160x143.png" crc="401332468" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 4 blue123x143.png" crc="4071374291" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 4 green123x143.png" crc="380089172" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 4 grey123x143.png" crc="264628218" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 4 pink123x143.png" crc="169198899" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 5 green139x143.png" crc="83606962" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 5 blue139x143.png" crc="306707830" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 5 grey139x143.png" crc="3924772362" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 5 pink139x143.png" crc="185852604" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="design 1 blue-crop-u6948.png" crc="3861764650" seo="true" ref="paintings">
+      <caption webpage="paintings" alt=""/>
+    </file>
+    <file name="design 3 green-crop-u6952.png" crc="420582934" seo="true" ref="paintings">
+      <caption webpage="paintings" alt=""/>
+    </file>
+    <file name="design 4 blue-crop-u6946.png" crc="3764216117" seo="true" ref="paintings">
+      <caption webpage="paintings" alt=""/>
+    </file>
+    <file name="design 5 green-crop-u6970.png" crc="3920917397" seo="true" ref="paintings">
+      <caption webpage="paintings" alt=""/>
+    </file>
+    <file name="design 1 green-crop-u6972.png" crc="417282907" seo="true" ref="paintings">
+      <caption webpage="paintings" alt=""/>
+    </file>
+    <file name="design 3 blue-crop-u6974.png" crc="3904507377" seo="true" ref="paintings">
+      <caption webpage="paintings" alt=""/>
+    </file>
+    <file name="design 4 green-crop-u6966.png" crc="3874708637" seo="true" ref="paintings">
+      <caption webpage="paintings" alt=""/>
+    </file>
+    <file name="design 5 blue-crop-u6964.png" crc="232068585" seo="true" ref="paintings">
+      <caption webpage="paintings" alt=""/>
+    </file>
+    <file name="design 1 grey-crop-u6960.png" crc="34405521" seo="true" ref="paintings">
+      <caption webpage="paintings" alt=""/>
+    </file>
+    <file name="design 3 grey-crop-u6962.png" crc="4079676598" seo="true" ref="paintings">
+      <caption webpage="paintings" alt=""/>
+    </file>
+    <file name="design 4 grey-crop-u6950.png" crc="4140005378" seo="true" ref="paintings">
+      <caption webpage="paintings" alt=""/>
+    </file>
+    <file name="design 5 grey-crop-u6958.png" crc="75246718" seo="true" ref="paintings">
+      <caption webpage="paintings" alt=""/>
+    </file>
+    <file name="design 1 pink-crop-u6944.png" crc="3833976557" seo="true" ref="paintings">
+      <caption webpage="paintings" alt=""/>
+    </file>
+    <file name="design 3 pink-crop-u6956.png" crc="4275805766" seo="true" ref="paintings">
+      <caption webpage="paintings" alt=""/>
+    </file>
+    <file name="design 4 pink-crop-u6954.png" crc="3837005840" seo="true" ref="paintings">
+      <caption webpage="paintings" alt=""/>
+    </file>
+    <file name="design 5 pink-crop-u6968.png" crc="4187221299" seo="true" ref="paintings">
+      <caption webpage="paintings" alt=""/>
+    </file>
+    <file name="design 1 blue-crop-u69482.png" crc="117922076" seo="true" ref="paintings">
+      <caption webpage="paintings" alt=""/>
+    </file>
+    <file name="design 3 green-crop-u69522.png" crc="29661417" seo="true" ref="paintings">
+      <caption webpage="paintings" alt=""/>
+    </file>
+    <file name="design 4 blue-crop-u69462.png" crc="160868196" seo="true" ref="paintings">
+      <caption webpage="paintings" alt=""/>
+    </file>
+    <file name="design 1 green-crop-u69722.png" crc="89283182" seo="true" ref="paintings">
+      <caption webpage="paintings" alt=""/>
+    </file>
+    <file name="design 3 blue-crop-u69742.png" crc="3919000594" seo="true" ref="paintings">
+      <caption webpage="paintings" alt=""/>
+    </file>
+    <file name="design 4 green-crop-u69662.png" crc="467263925" seo="true" ref="paintings">
+      <caption webpage="paintings" alt=""/>
+    </file>
+    <file name="design 1 grey-crop-u69602.png" crc="514926046" seo="true" ref="paintings">
+      <caption webpage="paintings" alt=""/>
+    </file>
+    <file name="design 3 grey-crop-u69622.png" crc="4249905557" seo="true" ref="paintings">
+      <caption webpage="paintings" alt=""/>
+    </file>
+    <file name="design 4 grey-crop-u69502.png" crc="4147369652" seo="true" ref="paintings">
+      <caption webpage="paintings" alt=""/>
+    </file>
+    <file name="design 1 pink-crop-u69442.png" crc="3874074406" seo="true" ref="paintings">
+      <caption webpage="paintings" alt=""/>
+    </file>
+    <file name="design 3 pink-crop-u69562.png" crc="143042222" seo="true" ref="paintings">
+      <caption webpage="paintings" alt=""/>
+    </file>
+    <file name="design 4 pink-crop-u69542.png" crc="4282281685" seo="true" ref="paintings">
+      <caption webpage="paintings" alt=""/>
+    </file>
+    <file name="design 3 green-crop-u69523.png" crc="4231377115" seo="true" ref="paintings">
+      <caption webpage="paintings" alt=""/>
+    </file>
+    <file name="design 4 blue-crop-u69463.png" crc="411625725" seo="true" ref="paintings">
+      <caption webpage="paintings" alt=""/>
+    </file>
+    <file name="design 3 blue-crop-u69743.png" crc="4284217288" seo="true" ref="paintings">
+      <caption webpage="paintings" alt=""/>
+    </file>
+    <file name="design 4 green-crop-u69663.png" crc="3961388224" seo="true" ref="paintings">
+      <caption webpage="paintings" alt=""/>
+    </file>
+    <file name="design 1 grey-crop-u69603.png" crc="3782293037" seo="true" ref="paintings">
+      <caption webpage="paintings" alt=""/>
+    </file>
+    <file name="design 3 grey-crop-u69623.png" crc="3800556446" seo="true" ref="paintings">
+      <caption webpage="paintings" alt=""/>
+    </file>
+    <file name="design 4 grey-crop-u69503.png" crc="3914152445" seo="true" ref="paintings">
+      <caption webpage="paintings" alt=""/>
+    </file>
+    <file name="design 3 pink-crop-u69563.png" crc="3914161571" seo="true" ref="paintings">
+      <caption webpage="paintings" alt=""/>
+    </file>
+    <file name="design 4 pink-crop-u69543.png" crc="3877166441" seo="true" ref="paintings">
+      <caption webpage="paintings" alt=""/>
+    </file>
+    <file name="design 1 blue-crop-u7199.png" crc="3861764650" seo="true" ref="drawings">
+      <caption webpage="drawings" alt=""/>
+    </file>
+    <file name="design 3 green-crop-u7203.png" crc="420582934" seo="true" ref="drawings">
+      <caption webpage="drawings" alt=""/>
+    </file>
+    <file name="design 4 blue-crop-u7209.png" crc="3764216117" seo="true" ref="drawings">
+      <caption webpage="drawings" alt=""/>
+    </file>
+    <file name="design 5 green-crop-u7191.png" crc="3920917397" seo="true" ref="drawings">
+      <caption webpage="drawings" alt=""/>
+    </file>
+    <file name="design 1 green-crop-u7193.png" crc="417282907" seo="true" ref="drawings">
+      <caption webpage="drawings" alt=""/>
+    </file>
+    <file name="design 3 blue-crop-u7195.png" crc="3904507377" seo="true" ref="drawings">
+      <caption webpage="drawings" alt=""/>
+    </file>
+    <file name="design 4 green-crop-u7207.png" crc="3874708637" seo="true" ref="drawings">
+      <caption webpage="drawings" alt=""/>
+    </file>
+    <file name="design 5 blue-crop-u7211.png" crc="232068585" seo="true" ref="drawings">
+      <caption webpage="drawings" alt=""/>
+    </file>
+    <file name="design 1 grey-crop-u7205.png" crc="34405521" seo="true" ref="drawings">
+      <caption webpage="drawings" alt=""/>
+    </file>
+    <file name="design 3 grey-crop-u7187.png" crc="4079676598" seo="true" ref="drawings">
+      <caption webpage="drawings" alt=""/>
+    </file>
+    <file name="design 4 grey-crop-u7189.png" crc="4140005378" seo="true" ref="drawings">
+      <caption webpage="drawings" alt=""/>
+    </file>
+    <file name="design 5 grey-crop-u7197.png" crc="75246718" seo="true" ref="drawings">
+      <caption webpage="drawings" alt=""/>
+    </file>
+    <file name="design 1 pink-crop-u7217.png" crc="3833976557" seo="true" ref="drawings">
+      <caption webpage="drawings" alt=""/>
+    </file>
+    <file name="design 3 pink-crop-u7215.png" crc="4275805766" seo="true" ref="drawings">
+      <caption webpage="drawings" alt=""/>
+    </file>
+    <file name="design 4 pink-crop-u7213.png" crc="3837005840" seo="true" ref="drawings">
+      <caption webpage="drawings" alt=""/>
+    </file>
+    <file name="design 5 pink-crop-u7201.png" crc="4187221299" seo="true" ref="drawings">
+      <caption webpage="drawings" alt=""/>
+    </file>
+    <file name="design 1 blue-crop-u71992.png" crc="117922076" seo="true" ref="drawings">
+      <caption webpage="drawings" alt=""/>
+    </file>
+    <file name="design 3 green-crop-u72032.png" crc="29661417" seo="true" ref="drawings">
+      <caption webpage="drawings" alt=""/>
+    </file>
+    <file name="design 4 blue-crop-u72092.png" crc="160868196" seo="true" ref="drawings">
+      <caption webpage="drawings" alt=""/>
+    </file>
+    <file name="design 1 green-crop-u71932.png" crc="89283182" seo="true" ref="drawings">
+      <caption webpage="drawings" alt=""/>
+    </file>
+    <file name="design 3 blue-crop-u71952.png" crc="3919000594" seo="true" ref="drawings">
+      <caption webpage="drawings" alt=""/>
+    </file>
+    <file name="design 4 green-crop-u72072.png" crc="467263925" seo="true" ref="drawings">
+      <caption webpage="drawings" alt=""/>
+    </file>
+    <file name="design 1 grey-crop-u72052.png" crc="514926046" seo="true" ref="drawings">
+      <caption webpage="drawings" alt=""/>
+    </file>
+    <file name="design 3 grey-crop-u71872.png" crc="4249905557" seo="true" ref="drawings">
+      <caption webpage="drawings" alt=""/>
+    </file>
+    <file name="design 4 grey-crop-u71892.png" crc="4147369652" seo="true" ref="drawings">
+      <caption webpage="drawings" alt=""/>
+    </file>
+    <file name="design 1 pink-crop-u72172.png" crc="3874074406" seo="true" ref="drawings">
+      <caption webpage="drawings" alt=""/>
+    </file>
+    <file name="design 3 pink-crop-u72152.png" crc="143042222" seo="true" ref="drawings">
+      <caption webpage="drawings" alt=""/>
+    </file>
+    <file name="design 4 pink-crop-u72132.png" crc="4282281685" seo="true" ref="drawings">
+      <caption webpage="drawings" alt=""/>
+    </file>
+    <file name="design 3 green-crop-u72033.png" crc="4231377115" seo="true" ref="drawings">
+      <caption webpage="drawings" alt=""/>
+    </file>
+    <file name="design 4 blue-crop-u72093.png" crc="411625725" seo="true" ref="drawings">
+      <caption webpage="drawings" alt=""/>
+    </file>
+    <file name="design 3 blue-crop-u71953.png" crc="4284217288" seo="true" ref="drawings">
+      <caption webpage="drawings" alt=""/>
+    </file>
+    <file name="design 4 green-crop-u72073.png" crc="3961388224" seo="true" ref="drawings">
+      <caption webpage="drawings" alt=""/>
+    </file>
+    <file name="design 1 grey-crop-u72053.png" crc="3782293037" seo="true" ref="drawings">
+      <caption webpage="drawings" alt=""/>
+    </file>
+    <file name="design 3 grey-crop-u71873.png" crc="3800556446" seo="true" ref="drawings">
+      <caption webpage="drawings" alt=""/>
+    </file>
+    <file name="design 4 grey-crop-u71893.png" crc="3914152445" seo="true" ref="drawings">
+      <caption webpage="drawings" alt=""/>
+    </file>
+    <file name="design 3 pink-crop-u72153.png" crc="3914161571" seo="true" ref="drawings">
+      <caption webpage="drawings" alt=""/>
+    </file>
+    <file name="design 4 pink-crop-u72133.png" crc="3877166441" seo="true" ref="drawings">
+      <caption webpage="drawings" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3950058178" seo="true" mt="1536072032922" redirect="true"/>
+  <file name="contact.html" crc="4166429962" seo="true" mt="1536072032922" redirect="true"/>
+  <file name="bio.html" crc="74660755" seo="true" mt="1536072032922" redirect="true"/>
+  <file name="portfolio.html" crc="4142313413" seo="true" mt="1536072032922" redirect="true"/>
+  <file name="illustrations.html" crc="353997736" seo="true" mt="1536072032922" redirect="true"/>
+  <file name="other.html" crc="172699147" seo="true" mt="1536072032922" redirect="true"/>
+  <file name="exhibitions.html" crc="4263781302" seo="true" mt="1536072032922" redirect="true"/>
+  <file name="paintings.html" crc="316955890" seo="true" mt="1536072032922" redirect="true"/>
+  <file name="drawings.html" crc="362261303" seo="true" mt="1536072032922" redirect="true"/>
+</manifest>
