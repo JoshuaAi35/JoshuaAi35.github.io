@@ -2,40 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://JoshuaAHayes.com/index.html</loc>
-    <lastmod>2018-09-04</lastmod>
+    <lastmod>2018-09-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/lime%20logo.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/graphics%20no%20background.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/poster%20cropped.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/copy%20right%20logo%20lime%20green.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/instagram%20logo%20lime.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/facebook%20logo%20lime.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/social-media-logos.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/patreon%20logo%20lime.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/poster%20cropped577x218.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/poster%20cropped366x139.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/feed%20the%20mind_type%20graphic_black%20and%20lime%20green.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://JoshuaAHayes.com/contact.html</loc>
-    <lastmod>2018-09-04</lastmod>
+    <lastmod>2018-09-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -71,11 +50,14 @@
   </url>
   <url>
     <loc>http://JoshuaAHayes.com/bio.html</loc>
-    <lastmod>2018-09-04</lastmod>
+    <lastmod>2018-09-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://JoshuaAHayes.com/images/lime%20logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/screenshot_2018-09-16-16-39-42-1.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://JoshuaAHayes.com/images/copy%20right%20logo%20lime%20green.png</image:loc>
@@ -95,11 +77,221 @@
   </url>
   <url>
     <loc>http://JoshuaAHayes.com/portfolio.html</loc>
-    <lastmod>2018-09-04</lastmod>
+    <lastmod>2018-09-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://JoshuaAHayes.com/images/lime%20logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/copy%20right%20logo%20lime%20green.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/instagram%20logo%20lime.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/facebook%20logo%20lime.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/social-media-logos.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/patreon%20logo%20lime.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/art%206.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/art%209.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/art%207.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/art.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/art%206143x143.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/art%209143x143.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/art%207145x146.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/art145x145.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/art%20691x91.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/art%20991x91.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/art%20792x92.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/art92x92.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://JoshuaAHayes.com/illustrations.html</loc>
+    <lastmod>2018-09-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/lime%20logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/graphic%2017.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/copy%20right%20logo%20lime%20green.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/instagram%20logo%20lime.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/facebook%20logo%20lime.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/social-media-logos.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/patreon%20logo%20lime.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/graphic%207.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/graphic%205.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/graphic%206.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/graphic%208.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/graphic%2012.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/graphic%209.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/graphic%2010.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/graphic%2011.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/graphic%204.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/graphic.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/graphic%202.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/graphic%203.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/graphic%2013.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/graphic%2014.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/graphic%2015.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/graphic%2016.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/graphic%2019.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/graphic%2018.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/graphic%2020.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://JoshuaAHayes.com/home.html</loc>
+    <lastmod>2018-09-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/lime%20logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/screenshot_2018-09-16-16-26-27-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/screenshot_2018-09-16-16-25-46-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/screenshot_2018-09-16-16-40-30-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/graphic%2017.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/screenshot_2018-09-16-16-39-42-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/no%20mercy_joshua%20a%20hayes-page%203.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/screenshot_2018-07-12-15-39-50.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/copy%20right%20logo%20lime%20green.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/instagram%20logo%20lime.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/facebook%20logo%20lime.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/social-media-logos.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/patreon%20logo%20lime.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/screenshot_2018-09-16-16-39-42-1245x241.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/no%20mercy_joshua%20a%20hayes-page%203234x133.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/screenshot_2018-07-12-15-39-50233x146.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/no%20mercy_joshua%20a%20hayes-page%203148x85.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/screenshot_2018-09-16-16-39-42-1155x153.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/screenshot_2018-07-12-15-39-50148x93.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://JoshuaAHayes.com/exhibitions.html</loc>
+    <lastmod>2018-09-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/lime%20logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/screenshot_2018-09-16-16-25-46-1.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://JoshuaAHayes.com/images/copy%20right%20logo%20lime%20green.png</image:loc>
@@ -118,8 +310,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://JoshuaAHayes.com/illustrations.html</loc>
-    <lastmod>2018-09-04</lastmod>
+    <loc>http://JoshuaAHayes.com/paintings.html</loc>
+    <lastmod>2018-09-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -141,145 +333,160 @@
       <image:loc>http://JoshuaAHayes.com/images/patreon%20logo%20lime.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%201%20blue-crop-u4532.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/art%207.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%203%20green-crop-u4793.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/art%202.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%204%20blue-crop-u4873.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/art%2013.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%205%20green-crop-u4953.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/digital%20jaguar%204.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%201%20green-crop-u4733.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/digtal%20shrimp%204.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%203%20blue-crop-u4813.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/art%2014.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%204%20green-crop-u4893.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/digital%20jaguar.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%205%20blue-crop-u4973.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/digtal%20shrimp%205.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%201%20grey-crop-u4753.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/art%2012.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%203%20grey-crop-u4833.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/digital%20jaguar%203.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%204%20grey-crop-u4913.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/digtal%20shrimp%203.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%205%20grey-crop-u4993.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/art%208.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%201%20pink-crop-u4773.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/digital%20jaguar%202.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%203%20pink-crop-u4853.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/digtal%20shrimp%202.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%204%20pink-crop-u4933.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/digtal%20shrimp.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%205%20pink-crop-u5013.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/art%207137x137.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%201%20blue.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/art%20787x87.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://JoshuaAHayes.com/drawings.html</loc>
+    <lastmod>2018-09-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/lime%20logo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%201%20green.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/copy%20right%20logo%20lime%20green.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%201%20grey.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/instagram%20logo%20lime.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%201%20pink.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/facebook%20logo%20lime.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%203%20green.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/social-media-logos.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%203%20blue.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/patreon%20logo%20lime.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%203%20grey.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/art%206.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%203%20pink.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/art%209.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%204%20blue.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/art.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%204%20green.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/art%2018.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%204%20grey.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/art%203.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%204%20pink.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/art%204.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%205%20green.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/art%205.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%205%20blue.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/art%2010.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%205%20grey.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/art%2011.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%205%20pink.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/art%2015.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%201%20blue-crop-u45322.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/art%2016.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%203%20green-crop-u47932.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/art%2017.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%204%20blue-crop-u48732.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/design%201%20blue-crop-u7199.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/design%203%20green-crop-u7203.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/design%204%20blue-crop-u7209.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://JoshuaAHayes.com/images/design%205%20green109x113.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%201%20green-crop-u47332.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/design%201%20green-crop-u7193.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%203%20blue-crop-u48132.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/design%203%20blue-crop-u7195.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%204%20green-crop-u48932.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/design%204%20green-crop-u7207.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://JoshuaAHayes.com/images/design%205%20blue109x113.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%201%20grey-crop-u47532.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/design%201%20grey-crop-u7205.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%203%20grey-crop-u48332.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/design%203%20grey-crop-u7187.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%204%20grey-crop-u49132.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/design%204%20grey-crop-u7189.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://JoshuaAHayes.com/images/design%205%20grey109x113.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%201%20pink-crop-u47732.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/design%201%20pink-crop-u7217.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%203%20pink-crop-u48532.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/design%203%20pink-crop-u7215.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%204%20pink-crop-u49332.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/design%204%20pink-crop-u7213.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://JoshuaAHayes.com/images/design%205%20pink109x113.png</image:loc>
@@ -333,13 +540,22 @@
       <image:loc>http://JoshuaAHayes.com/images/design%205%20pink219x225.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/art%206136x136.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/art%209135x135.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/art137x137.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://JoshuaAHayes.com/images/design%201%20blue70x71.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%203%20green-crop-u47933.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/design%203%20green-crop-u72032.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%204%20blue-crop-u48733.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/design%204%20blue-crop-u72092.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://JoshuaAHayes.com/images/design%205%20green70x72.png</image:loc>
@@ -348,22 +564,22 @@
       <image:loc>http://JoshuaAHayes.com/images/design%201%20green70x71.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%203%20blue-crop-u48133.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/design%203%20blue-crop-u71952.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%204%20green-crop-u48933.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/design%204%20green-crop-u72072.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://JoshuaAHayes.com/images/design%205%20blue70x72.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%201%20grey-crop-u47533.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/design%201%20grey-crop-u72052.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%203%20grey-crop-u48333.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/design%203%20grey-crop-u71872.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%204%20grey-crop-u49133.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/design%204%20grey-crop-u71892.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://JoshuaAHayes.com/images/design%205%20grey70x72.png</image:loc>
@@ -372,10 +588,10 @@
       <image:loc>http://JoshuaAHayes.com/images/design%201%20pink70x71.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%203%20pink-crop-u48533.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/design%203%20pink-crop-u72152.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%204%20pink-crop-u49333.png</image:loc>
+      <image:loc>http://JoshuaAHayes.com/images/design%204%20pink-crop-u72132.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://JoshuaAHayes.com/images/design%205%20pink70x72.png</image:loc>
@@ -428,10 +644,19 @@
     <image:image>
       <image:loc>http://JoshuaAHayes.com/images/design%205%20pink139x143.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/art%20687x87.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/art%20986x86.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://JoshuaAHayes.com/images/art87x87.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://JoshuaAHayes.com/other.html</loc>
-    <lastmod>2018-09-04</lastmod>
+    <lastmod>2018-09-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -451,396 +676,6 @@
     </image:image>
     <image:image>
       <image:loc>http://JoshuaAHayes.com/images/patreon%20logo%20lime.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://JoshuaAHayes.com/exhibitions.html</loc>
-    <lastmod>2018-09-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/lime%20logo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/copy%20right%20logo%20lime%20green.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/instagram%20logo%20lime.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/facebook%20logo%20lime.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/social-media-logos.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/patreon%20logo%20lime.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://JoshuaAHayes.com/paintings.html</loc>
-    <lastmod>2018-09-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/lime%20logo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/copy%20right%20logo%20lime%20green.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/instagram%20logo%20lime.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/facebook%20logo%20lime.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/social-media-logos.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/patreon%20logo%20lime.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%201%20blue.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%201%20green.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%201%20grey.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%201%20pink.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%203%20green.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%203%20blue.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%203%20grey.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%203%20pink.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%204%20blue.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%204%20green.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%204%20grey.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%204%20pink.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%205%20green.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%205%20blue.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%205%20grey.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%205%20pink.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%201%20blue-crop-u6948.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%203%20green-crop-u6952.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%204%20blue-crop-u6946.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%205%20green-crop-u6970.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%201%20green-crop-u6972.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%203%20blue-crop-u6974.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%204%20green-crop-u6966.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%205%20blue-crop-u6964.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%201%20grey-crop-u6960.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%203%20grey-crop-u6962.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%204%20grey-crop-u6950.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%205%20grey-crop-u6958.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%201%20pink-crop-u6944.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%203%20pink-crop-u6956.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%204%20pink-crop-u6954.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%205%20pink-crop-u6968.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%201%20blue-crop-u69482.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%203%20green-crop-u69522.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%204%20blue-crop-u69462.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%201%20green-crop-u69722.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%203%20blue-crop-u69742.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%204%20green-crop-u69662.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%201%20grey-crop-u69602.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%203%20grey-crop-u69622.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%204%20grey-crop-u69502.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%201%20pink-crop-u69442.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%203%20pink-crop-u69562.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%204%20pink-crop-u69542.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%203%20green-crop-u69523.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%204%20blue-crop-u69463.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%203%20blue-crop-u69743.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%204%20green-crop-u69663.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%201%20grey-crop-u69603.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%203%20grey-crop-u69623.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%204%20grey-crop-u69503.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%203%20pink-crop-u69563.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%204%20pink-crop-u69543.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://JoshuaAHayes.com/drawings.html</loc>
-    <lastmod>2018-09-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/lime%20logo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/copy%20right%20logo%20lime%20green.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/instagram%20logo%20lime.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/facebook%20logo%20lime.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/social-media-logos.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/patreon%20logo%20lime.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%201%20blue.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%201%20green.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%201%20grey.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%201%20pink.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%203%20green.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%203%20blue.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%203%20grey.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%203%20pink.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%204%20blue.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%204%20green.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%204%20grey.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%204%20pink.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%205%20green.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%205%20blue.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%205%20grey.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%205%20pink.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%201%20blue-crop-u7199.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%203%20green-crop-u7203.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%204%20blue-crop-u7209.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%205%20green-crop-u7191.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%201%20green-crop-u7193.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%203%20blue-crop-u7195.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%204%20green-crop-u7207.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%205%20blue-crop-u7211.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%201%20grey-crop-u7205.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%203%20grey-crop-u7187.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%204%20grey-crop-u7189.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%205%20grey-crop-u7197.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%201%20pink-crop-u7217.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%203%20pink-crop-u7215.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%204%20pink-crop-u7213.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%205%20pink-crop-u7201.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%201%20blue-crop-u71992.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%203%20green-crop-u72032.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%204%20blue-crop-u72092.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%201%20green-crop-u71932.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%203%20blue-crop-u71952.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%204%20green-crop-u72072.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%201%20grey-crop-u72052.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%203%20grey-crop-u71872.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%204%20grey-crop-u71892.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%201%20pink-crop-u72172.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%203%20pink-crop-u72152.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%204%20pink-crop-u72132.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%203%20green-crop-u72033.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%204%20blue-crop-u72093.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%203%20blue-crop-u71953.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%204%20green-crop-u72073.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%201%20grey-crop-u72053.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%203%20grey-crop-u71873.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%204%20grey-crop-u71893.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%203%20pink-crop-u72153.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://JoshuaAHayes.com/images/design%204%20pink-crop-u72133.png</image:loc>
     </image:image>
   </url>
 </urlset>
